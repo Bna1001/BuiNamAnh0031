@@ -16,6 +16,46 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = d:\THI\BuiNamAnh0031
 build_property._RazorSourceGeneratorDebug = 
 
+[d:/THI/BuiNamAnh0031/Views/BNALopHoc/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQk5BTG9wSG9jXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/THI/BuiNamAnh0031/Views/BNALopHoc/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQk5BTG9wSG9jXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/THI/BuiNamAnh0031/Views/BNALopHoc/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQk5BTG9wSG9jXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/THI/BuiNamAnh0031/Views/BNALopHoc/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQk5BTG9wSG9jXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/THI/BuiNamAnh0031/Views/BNALopHoc/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQk5BTG9wSG9jXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/THI/BuiNamAnh0031/Views/BNASinhVien/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQk5BU2luaFZpZW5cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/THI/BuiNamAnh0031/Views/BNASinhVien/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQk5BU2luaFZpZW5cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/THI/BuiNamAnh0031/Views/BNASinhVien/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQk5BU2luaFZpZW5cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/THI/BuiNamAnh0031/Views/BNASinhVien/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQk5BU2luaFZpZW5cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/THI/BuiNamAnh0031/Views/BNASinhVien/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQk5BU2luaFZpZW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [d:/THI/BuiNamAnh0031/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

@@ -1,0 +1,24 @@
+@model BuiNamAnh0031.Models.BNALopHoc
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>BNALopHoc</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.BNATenLop)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.BNATenLop)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.BNAMaLop">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
